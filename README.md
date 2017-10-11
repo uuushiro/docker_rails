@@ -1,5 +1,5 @@
 # docker_rails
 
 ```
-sh init.sh
+sh script/init.sh
 ```
